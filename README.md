@@ -22,7 +22,9 @@
 
 ## Follow Me
 
-[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/survereignty)
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/falldot)
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/Falldot)
+[![Telegram](https://img.shields.io/badge/-Whatsapp-090909?style=for-the-badge&logo=whatsapp)](https://api.whatsapp.com/send?phone=79006690806)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Falldot&langs_count=8&layout=compact&theme=dark)](https://github.com/Falldot?tab=repositories)
